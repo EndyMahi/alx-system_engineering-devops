@@ -1,5 +1,0 @@
-#!/bin/bash
-chwon --from=guillaume betty hello
-#!/bin/bash
-chwon --from=guillaume hello betty
-#!/bin/bash
